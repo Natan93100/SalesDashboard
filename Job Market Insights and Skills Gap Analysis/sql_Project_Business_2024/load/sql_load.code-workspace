@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "sql_load",
+			"path": "."
+		},
+		{
+			"name": "csv_files",
+			"path": "../csv_files"
+		}
+	]
+}
