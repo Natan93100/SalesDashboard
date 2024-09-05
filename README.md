@@ -15,4 +15,16 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 - **Statistics**: Hypothesis testing, regression analysis, and probability
 - **Tableau**: Data visualization, interactive dashboards, and storytelling
 - **Excel & VBA**: Data analysis, automation, and dynamic reporting
+## Table of Contents
+[About](#about)
+
+[Portfolio Projects](#Portfolio-Projects)
+- SQL
+   - [Data Analysts Analysis 2024](#Analayzing-over-all-stats-of-Data-Analysts-around-the-world)
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+### Analayzing over-all stats of Data Analysts around the world
+
+**Code:**
+
 
