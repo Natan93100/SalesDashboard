@@ -38,6 +38,7 @@ This project explores job postings across various industries to uncover key tren
 **Data Enrichment and Normalization**<br>
 **[Company Insights Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Data%20Enrichment%20and%20Normalization/Company%20Insights.sql)**<br>
 **[Normalize Skill Data Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Data%20Enrichment%20and%20Normalization/Normalize%20Skill%20Data.sql)**<br>
+
 **Trend Analysis**<br>
 **[Job Posting Trends Over Time Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Trend%20Analysis/Job%20Posting%20Trends%20Over%20Time.sql)**<br>
 
