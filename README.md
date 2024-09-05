@@ -25,9 +25,10 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ### Analayzing over-all stats of Data Analysts around the world
 
-**DataSet:** [Click Here](#https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN) <br>
+**For the DataSet** [Click Here](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)
+ <br>
 *All Rights Reserved to Luke Barousse.<br>
-**Code:**
+**Load Files:** [Link](https://github.com/Natan93100/SQL_Project_2024/tree/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/load)
 **Description:**
 **Code:**
 **Description:**
