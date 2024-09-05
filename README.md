@@ -42,5 +42,5 @@ This project explores job postings across various industries to uncover key tren
 **Trend Analysis**<br>
 **[Job Posting Trends Over Time Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Trend%20Analysis/Job%20Posting%20Trends%20Over%20Time.sql)**<br>
 **[Salary Analysis Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Trend%20Analysis/Salary%20Analysis.sql)**<br>
-
+<img src="[path_to_your_image.jpg](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Trend%20Analysis/795c461e-dc46-4017-89a4-046813181e78.png)" alt="Alt text" width="500" height="300">
 
