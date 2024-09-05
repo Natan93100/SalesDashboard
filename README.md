@@ -3,7 +3,7 @@
 
 Hi! I'm Nathan, a young motivated Data Analyst looking for his next endeavor.<br>A lil about me before we jump to qualifications and so;
 I like Data, Seriously, i Do!<br>
-I Enjoy going on to [A Bunch Of General Databases](https://github.com/awesomedata/awesome-public-datasets?tab=readme-ov-file) every now and then, exploring the data,
+I Enjoy going on to [Kaggle](https://www.kaggle.com/learn) every now and then, exploring a random data set,
 analysing it, and come up with my own conclusions regarding it; Sometimes i'll even have business ideas based solely on the SQL analysis of the database.<br>
 Besides that weird hobby of mine (right?!), I enjoy statsitics (especially weird correlations like in here : [tylervigen.com](https://www.tylervigen.com/spurious-correlations))
 and the Brain Science Field (if you do also, I HIGHLY encourage you to give 'The Brain That Changes Itself a read) as well as modelling data regarding that field using TensorFlow and Scikit-learn Libraries in Python.<br>
