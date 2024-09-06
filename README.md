@@ -20,15 +20,16 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 
 [Portfolio Projects](#Portfolio-Projects)
 - SQL
-  - [Data Analysts Analysis 2024](#Data-Analysts-Analysis-2024)
+  - [Job Market Insights and Skills Gap Analysis](#Job-Market-Insights-and-Skills-Gap-Analysis)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-### Data Analysts Analysis 2024
+### SQL
+### Job Market Insights and Skills Gap Analysis<br>
   **For the DataSet** [Click Here](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)
  <br>
 **Load Files:** [Link](https://github.com/Natan93100/SQL_Project_2024/tree/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/load)<br>
-#### Job Market Insights and Skills Gap Analysis<br>
+
 **Goal:**<br>
       The goal of this project is to analyze job postings and company data<br> to gain insights into job market trends, salary distributions,          and skill demands.<br>
 
@@ -44,4 +45,11 @@ This project explores job postings across various industries to uncover key tren
 **[Salary Analysis Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Trend%20Analysis/Salary%20Analysis.sql)**<br>
 
 <img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Trend%20Analysis/795c461e-dc46-4017-89a4-046813181e78.png" alt="Alt text" width="350" height="250">
+
+**Skills Demand Analysis**<br>
+**[Most In-Demand Skills by Industry Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Query%20for%20Most%20In-Demand%20Skills%20by%20Industry.sql)**<br>
+**[Skills Correlation Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Skills%20Correlation.sql)**<br>
+
+<img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/5628d74f-ca14-41a3-8af3-f5a6a9e0ad5c.png" alt="Alt text" width="350" height="250">
+
 
