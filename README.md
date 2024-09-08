@@ -22,6 +22,9 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 - SQL
   - [Job Market Insights and Skills Gap Analysis](#Job-Market-Insights-and-Skills-Gap-Analysis)
 
+- Python
+  - [Linear Regression Predictive Model](Linear-Regression-Predictive-Model)
+
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ### SQL
@@ -50,6 +53,20 @@ This project explores job postings across various industries to uncover key tren
 **[Most In-Demand Skills by Industry Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Query%20for%20Most%20In-Demand%20Skills%20by%20Industry.sql)**<br>
 **[Skills Correlation Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Skills%20Correlation.sql)**<br>
 
-<img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/5628d74f-ca14-41a3-8af3-f5a6a9e0ad5c.png" alt="Alt text" width="350" height="250">
+<img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/5628d74f-ca14-41a3-8af3-f5a6a9e0ad5c.png" alt="Alt text" width="350" height="250"><br>
+
+### PYTHON
+### [Linear Regression Predictive Model<br>](https://github.com/Natan93100/SQL_Project_2024/blob/main/Python/Linear%20Regression%20Model.py)
+
+**Goal:**<br>
+The goal of this project is to predict the dependent variable based on changes in the independent variable by fitting
+a straight line to the data that minimizes the difference between actual and predicted values.
+
+**Description:**<br>
+The linear regression model was implemented from scratch in Python using the core mathematical principles of Ordinary Least Squares (OLS).
+By calculating the slope and intercept, the model captures the linear relationship between temperature and ice cream sales.
+This custom implementation demonstrates fundamental machine learning skills, including data handling with NumPy,
+deriving key model parameters (slope and intercept), and applying the model for prediction.
+
 
 
