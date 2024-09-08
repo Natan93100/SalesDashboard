@@ -67,6 +67,9 @@ By calculating the slope and intercept, the model captures the linear relationsh
 This custom implementation demonstrates fundamental machine learning skills, including data handling with NumPy,
 deriving key model parameters (slope and intercept), and applying the model for prediction.
 
+If you are not familiar with linear regression please click [here](https://en.wikipedia.org/wiki/Linear_regression)<br>
+
+
 <img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Scatter%20Chart.png" alt="Alt text" width="350" height="250"><br>
 
 
