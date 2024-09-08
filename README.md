@@ -47,7 +47,6 @@ This project explores job postings across various industries to uncover key tren
 **[Job Posting Trends Over Time Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Trend%20Analysis/Job%20Posting%20Trends%20Over%20Time.sql)**<br>
 **[Salary Analysis Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Trend%20Analysis/Salary%20Analysis.sql)**<br>
 
-<img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Trend%20Analysis/795c461e-dc46-4017-89a4-046813181e78.png" alt="Alt text" width="350" height="250">
 
 **Skills Demand Analysis**<br>
 **[Most In-Demand Skills by Industry Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Query%20for%20Most%20In-Demand%20Skills%20by%20Industry.sql)**<br>
@@ -67,6 +66,8 @@ The linear regression model was implemented from scratch in Python using the cor
 By calculating the slope and intercept, the model captures the linear relationship between temperature and ice cream sales.
 This custom implementation demonstrates fundamental machine learning skills, including data handling with NumPy,
 deriving key model parameters (slope and intercept), and applying the model for prediction.
+
+<img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Scatter%20Chart.png" alt="Alt text" width="350" height="250"><br>
 
 
 
