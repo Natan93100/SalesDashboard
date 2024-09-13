@@ -75,7 +75,7 @@ If you are not familiar with linear regression please click [here](https://en.wi
 <img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Scatter%20Chart.png" alt="Alt text" width="350" height="250"><br>
 
 ### C
-### [Longest Continuous Sequence In Array]()
+### [Longest Continuous Sequence In Array](https://github.com/Natan93100/SQL_Project_2024/blob/main/Longest%20Sequence/main.c)
 
 **Goal:**<br>
 The goal of this C program is to find the longest sequence of continuous even numbers in an array.
