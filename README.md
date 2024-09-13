@@ -24,6 +24,8 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 
 - Python
   - [Linear Regression Predictive Model](Linear-Regression-Predictive-Model)
+- C
+  - [Longest Continuous Sequence In Array](Longest-Continuous-Sequence-In-Array)  
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -71,6 +73,23 @@ If you are not familiar with linear regression please click [here](https://en.wi
 
 
 <img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Scatter%20Chart.png" alt="Alt text" width="350" height="250"><br>
+
+### C
+### [Longest Continuous Sequence In Array]()
+
+**Goal:**<br>
+The goal of this C program is to find the longest sequence of continuous even numbers in an array.
+The program identifies sequences where even numbers follow each other with a difference of 2 and outputs the longest such sequence.
+
+**Logic:**<br>
+The program iterates through the array and checks for even numbers.
+If a number is even and the difference between it and the next number is exactly 2, it is considered part of the sequence.
+The program keeps track of the length of each sequence.
+The longest sequence is printed out, and if no sequence is found, it outputs a message indicating that.
+
+**Edge Occurences:**
+1. If no even sequence is found, the program prints "No even sequence in the array."
+2. If only one even number is found, it prints the number.
 
 
 
