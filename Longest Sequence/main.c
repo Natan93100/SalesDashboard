@@ -1,33 +1,40 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// A  Max Function 
+
 int MaxSequence(int x, int y) {
     if (x > y)return x;
     else return y;
 }
 
+
+// A Function to find The Longest sequence as an intger.
+
+
 int MaxLengthOfEachSequence(int
 arrOfSequence[], int arr[], int len) {
-    int MaxArray = 0;
-    int i = 0;
-    int arg = 0;
-    while (i != len - 1) {
-        if (arr[i] % 2 == 0) {
-            if (arr[i + 1] - arr[i] == 2) {
-                arrOfSequence[arg]++;
+    int MaxArray = 0;  // Deafult
+    int i = 0;  // Counter
+    int arg = 0;  // The Argument being iterated
+    while (i != len - 1) {  // len is the size of the array
+        if (arr[i] % 2 == 0) {  // Verifying the value is even
+            if (arr[i + 1] - arr[i] == 2) {  // Verification of Consecutiveness
+                arrOfSequence[arg]++;  // Updating the Max Sequence integer
                 i++;
             } else {
-                arrOfSequence[arg]++;
+                arrOfSequence[arg]++; // In a case of even but not consecutive 
                 arg++;
                 i++;
             }
-        } else { i++; }
+        } else { i++; } // In a case of not even --> next iteration
     }
-    if (i == len - 1) {
+    if (i == len - 1) {  // last value in the array reference
         if (arr[i] % 2 == 0) { arrOfSequence[arg]++; }
         else {}
     }
-    for (int i = 0; i < 5; i++) {
+    
+    for (int i = 0; i < 5; i++) { // up to 5 Possuble results from the MaxLengthOfEachSequence
         int Maxtemp =
                 MaxSequence(arrOfSequence[i], arrOfSequence[i + 1]);
         if (Maxtemp >
