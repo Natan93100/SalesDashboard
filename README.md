@@ -60,11 +60,11 @@ This includes determining the most common crimes, victim profiles, and locations
 
 **Description:**<br> 
 This project utilizes advanced SQL techniques to analyze crime data from various dimensions. The project includes:
-1. **Crime Analysis by Area**: Identifies the top 3 most common crimes in each area based on crime descriptions and frequencies.
-2. **Victim Demographics**: Provides a breakdown of crime incidents based on the age, sex, and racial background of victims, showing the distribution of crimes by demographic profiles.
-3. **Weapon and Victim Analysis**: Analyzes the usage of weapons in crimes and how it correlates with the racial background of victims.
-4. **Premises and Crime**: Investigates the relationship between crime occurrences and the types of premises involved, highlighting common premises where crimes occur.
-5. **Age-Based Crime Patterns**: Provides an average age of victims for different crime types, allowing for demographic profiling of crime incidents.
+1. [**Crime Analysis by Area**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Common%20Crimes%20By%20Area.sql): Identifies the top 3 most common crimes in each area based on crime descriptions and frequencies.
+2. [**Victim Demographics**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Crime%20By%20Racial%20Background.sql): Provides a breakdown of crime incidents based on the age, sex, and racial background of victims, showing the distribution of crimes by demographic profiles.
+3. [**Weapon and Victim Analysis**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Crime%20by%20Profile%20Code.sql): Analyzes the usage of weapons in crimes and how it correlates with the racial background of victims.
+4. [**Premises and Crime**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Premis%20by%20Area.sql): Investigates the relationship between crime occurrences and the types of premises involved, highlighting common premises where crimes occur.
+5. [**Age-Based Crime Patterns**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/crime%20by%20avg%20group.sql): Provides an average age of victims for different crime types, allowing for demographic profiling of crime incidents.
 
 
 
