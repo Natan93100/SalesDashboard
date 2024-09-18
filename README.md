@@ -51,10 +51,10 @@ This project explores job postings across various industries to uncover key tren
 **[Skills Correlation Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Skills%20Correlation.sql)**<br>
 
 ### Crime Raw Data Analysis USA 2020-2024<br>
-**For the DataSet** [Click Here]([https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN](https://www.kaggle.com/datasets/nathaniellybrand/los-angeles-crime-dataset-2020-present))
+[**For the DataSet**](https://www.kaggle.com/datasets/nathaniellybrand/los-angeles-crime-dataset-2020-present)
  <br>
 
- **Goal:**<br>
+**Goal:**<br>
 The aim of the project is to analyze crime data across various areas to identify patterns in crime types, demographics of victims, and the relationship between the types of premises where crimes occur.<br>
 This includes determining the most common crimes, victim profiles, and locations of incidents, allowing for insights into the factors that contribute to crime trends in different areas.
 
@@ -71,6 +71,7 @@ This project utilizes advanced SQL techniques to analyze crime data from various
 
 ### Top 3 Crimes by Area
 <img src="https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Crime%20Count%20by%20area.png" alt="Top 3 Crimes by Area" width="600"/>
+
 
 
 
