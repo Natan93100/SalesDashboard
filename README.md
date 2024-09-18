@@ -50,6 +50,6 @@ This project explores job postings across various industries to uncover key tren
 **[Most In-Demand Skills by Industry Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Query%20for%20Most%20In-Demand%20Skills%20by%20Industry.sql)**<br>
 **[Skills Correlation Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Skills%20Correlation.sql)**<br>
 
-<img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/5628d74f-ca14-41a3-8af3-f5a6a9e0ad5c.png" alt="Alt text" width="350" height="250"><br>
+
 
 
