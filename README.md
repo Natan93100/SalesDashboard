@@ -21,6 +21,7 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 [Portfolio Projects](#Portfolio-Projects)
 - SQL
   - [Job Market Insights and Skills Gap Analysis](#Job-Market-Insights-and-Skills-Gap-Analysis)
+  - [Crime Raw Data Analysis USA 2020-2024](#Crime-Raw-Data-Analysis-USA-2020-2024)
 
 - Python
   - [Linear Regression Predictive Model](Linear-Regression-Predictive-Model)
