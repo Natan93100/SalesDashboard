@@ -27,12 +27,12 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 ### SQL
 ### Job Market Insights and Skills Gap Analysis<br>
-  **For the DataSet** [Click Here](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)
+  **For the DataSet** [Click Here:](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)
  <br>
 **Load Files:** [Link](https://github.com/Natan93100/SQL_Project_2024/tree/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/load)<br>
 
 **Goal:**<br>
-      The goal of this project is to analyze job postings and company data<br> to gain insights into job market trends, salary distributions,          and skill demands.<br>
+The goal of this project is to analyze job postings and company data<br> to gain insights into job market trends, salary distributions,          and skill demands.<br>
 
 **Description:**<br> 
 This project explores job postings across various industries to uncover key trends in the job market.<br> The analysis focuses on salary trends, the relationship between job roles and skills, and the demand for specific technical competencies.<br> By leveraging a comprehensive database of companies, job postings, and skill requirements, the project offers valuable insights into which skills are highly sought after, potential salary expectations, and how these factors vary across different companies.<br>
