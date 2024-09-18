@@ -21,7 +21,7 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 [Portfolio Projects](#Portfolio-Projects)
 - SQL
   - [Job Market Insights and Skills Gap Analysis](#Job-Market-Insights-and-Skills-Gap-Analysis)
-  - [Crime Raw Data Analysis USA 2020-2024](#Crime-Data-Project)
+  - [Crime Raw Data Analysis USA 2020-2024](https://github.com/Natan93100/SQL_Project_2024/tree/main/Crime%20Data%20Project)
 
 - Python
   - [Linear Regression Predictive Model](Linear-Regression-Predictive-Model)
