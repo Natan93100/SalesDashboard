@@ -50,6 +50,21 @@ This project explores job postings across various industries to uncover key tren
 **[Most In-Demand Skills by Industry Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Query%20for%20Most%20In-Demand%20Skills%20by%20Industry.sql)**<br>
 **[Skills Correlation Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Skills%20Correlation.sql)**<br>
 
+### Crime Raw Data Analysis USA 2020-2024<br>
+**For the DataSet** [Click Here]([https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN](https://www.kaggle.com/datasets/nathaniellybrand/los-angeles-crime-dataset-2020-present))
+ <br>
+
+ **Goal:**<br>
+The aim of the project is to analyze crime data across various areas to identify patterns in crime types, demographics of victims, and the relationship between the types of premises where crimes occur.<br>
+This includes determining the most common crimes, victim profiles, and locations of incidents, allowing for insights into the factors that contribute to crime trends in different areas.
+
+**Description:**<br> 
+This project utilizes advanced SQL techniques to analyze crime data from various dimensions. The project includes:
+1. **Crime Analysis by Area**: Identifies the top 3 most common crimes in each area based on crime descriptions and frequencies.
+2. **Victim Demographics**: Provides a breakdown of crime incidents based on the age, sex, and racial background of victims, showing the distribution of crimes by demographic profiles.
+3. **Weapon and Victim Analysis**: Analyzes the usage of weapons in crimes and how it correlates with the racial background of victims.
+4. **Premises and Crime**: Investigates the relationship between crime occurrences and the types of premises involved, highlighting common premises where crimes occur.
+5. **Age-Based Crime Patterns**: Provides an average age of victims for different crime types, allowing for demographic profiling of crime incidents.
 
 
 
