@@ -22,7 +22,7 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 - SQL
   - [Job Market Insights and Skills Gap Analysis](#Job-Market-Insights-and-Skills-Gap-Analysis)
   - [Crime Raw Data Analysis USA 2020-2024](https://github.com/Natan93100/SQL_Project_2024/tree/main/Crime%20Data%20Project)
-  - [Sales Dashboard 2024](https://public.tableau.com/app/profile/nathan.ben.david4713/viz/SalesDashBoard2024/SalesDashBoard?publish=yes)
+  - [Sales Dashboard 2024](https://public.tableau.com/app/profile/nathan.ben.david4713/viz/SalesDashBoard2024/SalesDashBoard?publish=yes) <br>
     <img src="https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Screenshot%202024-10-13%20at%2014.28.55.png" width="600"/>
 
 ## Portfolio Projects
