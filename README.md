@@ -68,13 +68,5 @@ This project utilizes advanced SQL techniques to analyze crime data from various
 4. [**Premises and Crime**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Premis%20by%20Area.sql): Investigates the relationship between crime occurrences and the types of premises involved, highlighting common premises where crimes occur.
 5. [**Age-Based Crime Patterns**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/crime%20by%20avg%20group.sql): Provides an average age of victims for different crime types, allowing for demographic profiling of crime incidents.
 
-### Crime Count by Area (2020-2024)
-<img src="https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Top%203%20crimes%20by%20area.png" width="600"/>
-
-### Top 3 Crimes by Area
-<img src="https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Crime%20Count%20by%20area.png" alt="Top 3 Crimes by Area" width="600"/>
-
-
-
 
 
