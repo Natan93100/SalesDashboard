@@ -40,6 +40,7 @@ This project explores job postings across various industries to uncover key tren
 
 To test the Dashboard click [here](https://public.tableau.com/app/profile/nathan.ben.david4713/viz/SalesDashBoard2024/SalesDashBoard).
 
-  <img src="https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Screenshot%202024-10-13%20at%2014.28.55.png" width="1237"/>
+  <img width="1290" alt="Screenshot 2024-11-09 at 20 38 20" src="https://github.com/user-attachments/assets/b0058130-67e9-46ed-bc6c-35aab0ce8d63">
+
 
 
