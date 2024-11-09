@@ -13,19 +13,8 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 - **Advanced SQL**: Data manipulation, complex joins, and query optimization
 - **Statistics**: Hypothesis testing, regression analysis, and probability
 - **Tableau**: Data visualization, interactive dashboards, and storytelling
-## Table of Contents
-[About](#about)
 
-[Portfolio Projects](#Portfolio-Projects)
-- SQL
-  - [Job Market Insights and Skills Gap Analysis](#Job-Market-Insights-and-Skills-Gap-Analysis)
-  - [Crime Raw Data Analysis USA 2020-2024](https://github.com/Natan93100/SQL_Project_2024/tree/main/Crime%20Data%20Project)
-  - [Sales Dashboard 2024](https://public.tableau.com/app/profile/nathan.ben.david4713/viz/SalesDashBoard2024/SalesDashBoard?publish=yes) <br>
-
-## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-### SQL
-### Job Market Insights and Skills Gap Analysis<br>
+# Job Market Insights and Skills Gap Analysis<br>
   **For the DataSet** [Click Here:](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)
  <br>
 **Load Files:** [Link](https://github.com/Natan93100/SQL_Project_2024/tree/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/load)<br>
