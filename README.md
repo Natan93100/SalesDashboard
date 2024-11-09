@@ -9,12 +9,10 @@ Besides that weird hobby of mine (right?!), I enjoy statsitics (especially weird
 and the Brain Science Field (if you do also, I HIGHLY encourage you to give 'The Brain That Changes Itself a read) as well as modelling data regarding that field using TensorFlow and Scikit-learn Libraries in Python.<br>
 professionaly speaking, I hold a B.sc of Economics with a minor in Data-Science; During my studies, I gained the ability to work with complex data and developed an eye for identifying patterns and trends.<br> I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data analyst.<br>
 Besides my acadmic knowledge and tools, I also have a proffesional background in working as a data analyst where I gained most of my knowledge, skills and tools.
-## Skills
+## Skills used:
 - **Advanced SQL**: Data manipulation, complex joins, and query optimization
-- **Python Modeling**: Machine learning, data preprocessing, and automation
 - **Statistics**: Hypothesis testing, regression analysis, and probability
 - **Tableau**: Data visualization, interactive dashboards, and storytelling
-- **Excel & VBA**: Data analysis, automation, and dynamic reporting
 ## Table of Contents
 [About](#about)
 
@@ -23,7 +21,6 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
   - [Job Market Insights and Skills Gap Analysis](#Job-Market-Insights-and-Skills-Gap-Analysis)
   - [Crime Raw Data Analysis USA 2020-2024](https://github.com/Natan93100/SQL_Project_2024/tree/main/Crime%20Data%20Project)
   - [Sales Dashboard 2024](https://public.tableau.com/app/profile/nathan.ben.david4713/viz/SalesDashBoard2024/SalesDashBoard?publish=yes) <br>
-    <img src="https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Screenshot%202024-10-13%20at%2014.28.55.png" width="600"/>
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -52,21 +49,6 @@ This project explores job postings across various industries to uncover key tren
 **[Most In-Demand Skills by Industry Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Query%20for%20Most%20In-Demand%20Skills%20by%20Industry.sql)**<br>
 **[Skills Correlation Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Skills%20Correlation.sql)**<br>
 
-### Crime Raw Data Analysis USA 2020-2024<br>
-[**For the DataSet**](https://www.kaggle.com/datasets/nathaniellybrand/los-angeles-crime-dataset-2020-present)
- <br>
-
-**Goal:**<br>
-The aim of the project is to analyze crime data across various areas to identify patterns in crime types, demographics of victims, and the relationship between the types of premises where crimes occur.<br>
-This includes determining the most common crimes, victim profiles, and locations of incidents, allowing for insights into the factors that contribute to crime trends in different areas.
-
-**Description:**<br> 
-This project utilizes advanced SQL techniques to analyze crime data from various dimensions. The project includes:
-1. [**Crime Analysis by Area**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Common%20Crimes%20By%20Area.sql): Identifies the top 3 most common crimes in each area based on crime descriptions and frequencies.
-2. [**Victim Demographics**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Crime%20By%20Racial%20Background.sql): Provides a breakdown of crime incidents based on the age, sex, and racial background of victims, showing the distribution of crimes by demographic profiles.
-3. [**Weapon and Victim Analysis**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Crime%20by%20Profile%20Code.sql): Analyzes the usage of weapons in crimes and how it correlates with the racial background of victims.
-4. [**Premises and Crime**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Premis%20by%20Area.sql): Investigates the relationship between crime occurrences and the types of premises involved, highlighting common premises where crimes occur.
-5. [**Age-Based Crime Patterns**](https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/crime%20by%20avg%20group.sql): Provides an average age of victims for different crime types, allowing for demographic profiling of crime incidents.
-
+  <img src="https://github.com/Natan93100/SQL_Projects_2024/blob/main/Crime%20Data%20Project/Screenshot%202024-10-13%20at%2014.28.55.png" width="600"/>
 
 
