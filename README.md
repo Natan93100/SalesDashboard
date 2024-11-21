@@ -25,9 +25,6 @@ The goal of this project is to analyze job postings and company data<br> to gain
 **Description:**<br> 
 This project explores job postings across various industries to uncover key trends in the job market.<br> The analysis focuses on salary trends, the relationship between job roles and skills, and the demand for specific technical competencies.<br> By leveraging a comprehensive database of companies, job postings, and skill requirements, the project offers valuable insights into which skills are highly sought after, potential salary expectations, and how these factors vary across different companies.<br>
 
-**For The Code**<br>
-**[Company Insights Query](SQL_hp_exam.sql)
-
 To test the Dashboard click [here](https://public.tableau.com/app/profile/nathan.ben.david4713/viz/SalesDashBoard2024/SalesDashBoard).
 
   <img width="1290" alt="Screenshot 2024-11-09 at 20 38 20" src="https://github.com/user-attachments/assets/b0058130-67e9-46ed-bc6c-35aab0ce8d63">
