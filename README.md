@@ -25,18 +25,8 @@ The goal of this project is to analyze job postings and company data<br> to gain
 **Description:**<br> 
 This project explores job postings across various industries to uncover key trends in the job market.<br> The analysis focuses on salary trends, the relationship between job roles and skills, and the demand for specific technical competencies.<br> By leveraging a comprehensive database of companies, job postings, and skill requirements, the project offers valuable insights into which skills are highly sought after, potential salary expectations, and how these factors vary across different companies.<br>
 
-**Data Enrichment and Normalization**<br>
-**[Company Insights Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Data%20Enrichment%20and%20Normalization/Company%20Insights.sql)**<br>
-**[Normalize Skill Data Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Data%20Enrichment%20and%20Normalization/Normalize%20Skill%20Data.sql)**<br>
-
-**Trend Analysis**<br>
-**[Job Posting Trends Over Time Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Trend%20Analysis/Job%20Posting%20Trends%20Over%20Time.sql)**<br>
-**[Salary Analysis Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Trend%20Analysis/Salary%20Analysis.sql)**<br>
-
-
-**Skills Demand Analysis**<br>
-**[Most In-Demand Skills by Industry Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Query%20for%20Most%20In-Demand%20Skills%20by%20Industry.sql)**<br>
-**[Skills Correlation Query](https://github.com/Natan93100/SQL_Project_2024/blob/main/Job%20Market%20Insights%20and%20Skills%20Gap%20Analysis/sql_Project_Business_2024/Skills%20Demand%20Analysis/Skills%20Correlation.sql)**<br>
+**For The Code**<br>
+**[Company Insights Query](SQL_hp_exam.sql)
 
 To test the Dashboard click [here](https://public.tableau.com/app/profile/nathan.ben.david4713/viz/SalesDashBoard2024/SalesDashBoard).
 
